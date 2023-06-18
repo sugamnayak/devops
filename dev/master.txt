@@ -1,1 +1,1 @@
-https://github.com/sugamnayak/devops.git
+https://github.com/sugamnayak/devops
